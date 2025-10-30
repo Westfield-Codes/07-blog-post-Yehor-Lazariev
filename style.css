@@ -26,3 +26,14 @@ html {
 }
 
 /* NEW CSS HERE */
+ body{
+    background-color:hsla(0, 0%, 15%, 0.171);
+}
+
+ h3{
+     color: rgba(0, 128, 117, 0.89)
+}
+ .pb-4 p{
+     padding:0 10px;
+}
+ 
